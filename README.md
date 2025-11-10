@@ -14,12 +14,12 @@ Web/Mobile • API (REST & SOAP) • SQL/MongoDB • Charles Proxy
 **Цель 2025:** получить первый оффер Junior QA в США.
 
 **Как связаться:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com//)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhileeva)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/iananixil)
 [![Email](https://img.shields.io/badge/Email-333?logo=gmail&logoColor=white)](mailto:iananixil02@gmail.com)
 
 
-### 🧰 Tools & Technologies
+### 🧰 Инструменты и технологии
 ---
 
 ### 📁 Тестовая документация:
