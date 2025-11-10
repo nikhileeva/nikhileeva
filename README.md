@@ -3,7 +3,7 @@
 Entry-level Manual QA • Chicago, IL  
 Web/Mobile • API (REST & SOAP) • SQL/MongoDB • Charles Proxy
 
-[Резюме (PDF, скоро)](#)
+[![Резюме (PDF — скоро)](https://img.shields.io/badge/Резюме-PDF_—_скоро-lightgrey?style=flat&logo=adobeacrobatreader&logoColor=white)](#)
 
 
 <img align="right" width="100" src="https://cdn-icons-gif.flaticon.com/19012/19012936.gif" alt="Девушка за ноутбуком — анимация" />
@@ -14,7 +14,10 @@ Web/Mobile • API (REST & SOAP) • SQL/MongoDB • Charles Proxy
 **Цель 2025:** получить первый оффер Junior QA в США.
 
 **Как связаться:**  
-[LinkedIn](https://www.linkedin.com/) • [Telegram](https://t.me/iananixil) • [Email](mailto:iananixil02@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com//)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/iananixil)
+[![Email](https://img.shields.io/badge/Email-333?logo=gmail&logoColor=white)](mailto:iananixil02@gmail.com)
+
 
 ---
 
