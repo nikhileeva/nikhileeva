@@ -3,7 +3,9 @@
 Entry-level Manual QA • Chicago, IL  
 Web/Mobile • API (REST & SOAP) • SQL/MongoDB • Charles Proxy
 
-[![Резюме (PDF — скоро)](https://img.shields.io/badge/Резюме-PDF_—_скоро-lightgrey?style=flat&logo=adobeacrobatreader&logoColor=white)](#)
+## My CV
+[My CV (Google Docs)](https://docs.google.com/document/d/1k_FXUci_Uz7vDXXf61Hp-D1zbikDnLlm/edit)
+
 
 
 <img align="right" width="100" src="https://cdn-icons-gif.flaticon.com/19012/19012936.gif" alt="Девушка за ноутбуком — анимация" />
